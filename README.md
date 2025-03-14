@@ -32,7 +32,7 @@ This repository contains the project files for all the work experience projects 
 If you have any questions or would like to discuss my projects further, feel free to reach out:
 
 - **Email**: mohammedkhalifamohd@gmail.com  
-- **LinkedIn**: [Coming Soon]  
+- **LinkedIn**: www.linkedin.com/in/mohamed-khalifa-mohamed/![image](https://github.com/user-attachments/assets/8318c481-9e00-4cf4-b1d6-d8e6a5bee46b)
 - **GitHub**: [My GitHub Profile](https://github.com/mohamedkhalifamohamed)
 
 ---

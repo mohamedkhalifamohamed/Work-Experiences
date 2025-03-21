@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Work-Experiences">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ConferenceRoom-RentApp.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Auction-Site-Project.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Arcade-Game.zip!/" />
+      <root url="jar://$PROJECT_DIR$/FashioFolio-Website.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

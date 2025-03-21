@@ -24,8 +24,8 @@ This repository contains the project files for all the work experience projects 
 
 ## How to Use
 
-- Each project is compressed into a zip file.  
-- To explore a project, download the corresponding zip file, extract it, and open the files in your preferred development environment.
+- Each project is open for viewing and can be cloned using git to your development enviroment.  
+- The other way to explore my projects is to download the corresponding project files, extract them, and open the files in your preferred development environment.
 
 ## Contact
 

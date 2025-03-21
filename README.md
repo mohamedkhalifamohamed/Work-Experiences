@@ -2,7 +2,7 @@
 
 Welcome to my **Work Experiences** repository! 
 
-This repository contains the project files for all the work experience projects mentioned in my CV/resume. Each project is grouped as a separate zip file, making it easy to explore the code and understand the work I’ve done. These projects showcase my skills in software engineering, including front-end and back-end development, database design, and real-time system implementation.
+This repository contains the project files for all the work experience projects mentioned in my CV/resume. Each project is grouped as a separate project file with the name of the work experience mentioned in my resume, making it easy to explore the code and understand the work I’ve done. These projects showcase my skills in software engineering, including front-end and back-end development, database design, and real-time system implementation.
 
 ## Projects Included
 

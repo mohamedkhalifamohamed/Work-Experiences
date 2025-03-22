@@ -1,9 +1,6 @@
 # General exclusions
-node_modules
 .idea/
 *.iws
 *.iml
 *.ipr
-out/
-build/
-dist/
+

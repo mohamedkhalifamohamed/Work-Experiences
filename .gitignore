@@ -1,0 +1,13 @@
+# General exclusions
+node_modules
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+build/
+dist/
+
+# Exceptions - track these directories even if they match above patterns
+!Auction-Site/
+!FashionFolio-Website/

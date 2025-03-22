@@ -17,7 +17,7 @@ This repository contains the project files for all the work experience projects 
 
 ## Projects Excluded (Available in external public repositories - from Github Profile)
 
-1. **FASHIONFOLIO Website**  
+1. [**FASHIONFOLIO Website**](https://github.com/mohamedkhalifamohamed/FASHIONFOLIO)
    - **Description**: A fashion-sharing platform where users can save and share garment ideas.  
    - **Key Features**: Front-end and back-end integration with an SQL database and API calls.  
 

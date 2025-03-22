@@ -27,8 +27,24 @@ This repository contains the project files for all the work experience projects 
 
 ## How to Use
 
-- Each project is open for viewing and can be cloned using git to your development enviroment.  
+- Each project is open for viewing and can be cloned using git to your development environment.  
 - The other way to explore my projects is to download the corresponding project files, extract them, and open the files in your preferred development environment.
+
+
+## How to Use Arcade-Game Project
+- clone or Download this repository to your development environment.
+- Access the Arcade Game directory and look for the **Main** Class java file.
+- If you are using a java IDE, install the necessary dependancies and run the **Main** Class and the Game will start on your Machine.
+
+
+## How to Use ConferenceRoom-RentApp project
+- Clone or Download this repository to your development environment.
+- Access the ConferenceRoom-RentApp directory and run ``` docker-compose up -d ``` in you development CLI and configure your docker application so that it can create a RabbitMQ container for the application to use.
+- After successfully initializing and running your container, open this project's **src** directory and independantly run each of the components java class files (Building, Customer and RentalAgent).
+
+
+**NOTE**: make sure that the port number in the RabbitMQUtil java file (inside the **utils** directory of the **src** directory) aligns with your respective port in your rabbitmq docker container or else you have to change it. 
+
 
 ## Contact
 

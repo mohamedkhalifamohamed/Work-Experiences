@@ -10,17 +10,20 @@ This repository contains the project files for all the work experience projects 
    - **Description**: A Java-based arcade game developed using the libGDX library.  
    - **Key Features**: Game design, task management using Scrum principles, and functional game development.  
 
-2. **FASHIONFOLIO Website**  
+2. **Conference Room Renting App System**  
+   - **Description**: A Java-based system for managing conference room rentals.  
+   - **Key Features**: RabbitMQ message broker integration for efficient system communication.
+  
+
+## Projects Excluded (Available in external public repositories - from Github Profile)
+
+1. **FASHIONFOLIO Website**  
    - **Description**: A fashion-sharing platform where users can save and share garment ideas.  
    - **Key Features**: Front-end and back-end integration with an SQL database and API calls.  
 
-3. **Auction Website**  
+2. **Auction Website**  
    - **Description**: A real-time auction platform for watches.  
    - **Key Features**: Countdown timers, bidder tracking, and server-sent events using the Svelte framework.  
-
-4. **Conference Room Renting App System**  
-   - **Description**: A Java-based system for managing conference room rentals.  
-   - **Key Features**: RabbitMQ message broker integration for efficient system communication.  
 
 ## How to Use
 

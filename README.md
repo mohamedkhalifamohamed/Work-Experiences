@@ -39,7 +39,7 @@ This repository contains the project files for all the work experience projects 
 
 ## How to Use ConferenceRoom-RentApp project
 - Clone or Download this repository to your development environment.
-- Access the ConferenceRoom-RentApp directory and run ``` docker-compose up -d ``` in you development CLI and configure your docker application so that it can create a RabbitMQ container for the application to use.
+- Run ``` docker-compose up -d ``` in you development CLI and configure your docker application so that it can create a RabbitMQ container for the application to use.
 - After successfully initializing and running your container, open this project's **src** directory and independantly run each of the components java class files (Building, Customer and RentalAgent).
 
 

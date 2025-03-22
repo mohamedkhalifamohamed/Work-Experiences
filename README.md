@@ -21,7 +21,7 @@ This repository contains the project files for all the work experience projects 
    - **Description**: A fashion-sharing platform where users can save and share garment ideas.  
    - **Key Features**: Front-end and back-end integration with an SQL database and API calls.  
 
-2. **Auction Website**  
+2. [**Auction Website**](https://github.com/mohamedkhalifamohamed/Auction-Site)  
    - **Description**: A real-time auction platform for watches.  
    - **Key Features**: Countdown timers, bidder tracking, and server-sent events using the Svelte framework.  
 

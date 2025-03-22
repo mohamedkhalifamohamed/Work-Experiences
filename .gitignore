@@ -3,4 +3,5 @@
 *.iws
 *.iml
 *.ipr
-
+*.DS_Store
+ConferenceRoom-RentApp/.DS_Store
